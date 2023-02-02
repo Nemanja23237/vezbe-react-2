@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    color: rgb(7, 14, 7);
+    background: rgb(216, 93, 11);
+    margin: 20px;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 0 5px black;
+}
+.main-box{
+    display: flex;
+    flex-wrap: wrap;
+    background: skyblue;
+    font-family: monospace;
+}
+.delete-btn{
+    background: rgb(7, 215, 38);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}

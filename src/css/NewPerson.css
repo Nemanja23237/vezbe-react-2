@@ -1,0 +1,28 @@
+.field{
+    width: 295px;
+    height: 35px;
+    font-size: 18px;
+    margin: 5px;
+    line-height: 50px;
+    text-align: left;
+    display: block;
+    margin:0px auto;
+}
+.btn{
+    width: 300px;
+    height: 50px;
+    margin: 5px;
+    background: #ffeb3b;
+    display: block;
+    margin:0px auto;
+    border-radius: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.form-box{
+    width: 100%;
+    background:#3f51b5;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 0px;
+}

@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: auto;
+}
+
+.card{
+    color: tomato;
+    background: green;
+    text-align: center;
+    font: 30px;
+    width: 400px;
+    margin: 0 auto;
+}
